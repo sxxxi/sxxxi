@@ -3,7 +3,8 @@
 I am polishing my to become a Systems Programmer or a Web Developer
 
 ## What I have been working on:
-- Guided implementation of RESP protocol with Rust
+- Guided RESP protocol implementation with Rust
+- Learning asynchronous programming with Tokio
 
 ## My programming toolbox:
 ###### Systems Programming
