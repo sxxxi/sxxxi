@@ -1,6 +1,4 @@
-# Hi! I'm Seiji Akakabe.
-
-I am polishing my to become a Systems Programmer or a Web Developer
+# Heya!
 
 ## What I have been working on:
 - Guided RESP protocol implementation with Rust
