@@ -1,15 +1,10 @@
-# Heya!
-
-## What I have been working on:
-- Guided RESP protocol implementation with Rust
-- Learning asynchronous programming with Tokio
-
 ## My programming toolbox:
 ###### Systems Programming
 - 🦀 Rust
 - ☕ Java
 - C#
 - C/C++
+
 ###### Web Development
 - Javascript
 - HTML/CSS
