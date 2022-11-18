@@ -1,5 +1,3 @@
-Ripping off abstraction layers one layer at a time.
-
 ## My programming toolbox:
 ###### Systems Programming
 - 🦀 Rust
