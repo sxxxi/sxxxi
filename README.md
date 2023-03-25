@@ -1,4 +1,5 @@
-![We da best music](https://giphy.com/embed/QBjok2NBIzSR7IaDQK)
+![We da best music](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk5ZTNiNzQwNWZmZjAxNjVjYTI0ODdiY2RmYzBiNWFiZTE3MGQ1ZCZjdD1n/QBjok2NBIzSR7IaDQK/giphy.gif)
+
 # Hi there!
 I am an Aspiring Software Developer studying at Sheridan College.
 Have a look at my toolbox :)
