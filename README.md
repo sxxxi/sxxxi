@@ -34,6 +34,36 @@ Have a look at my toolbox :)
 - Android
 
 
+
+
+## Toolbox
+| ###### Devops
+| <ul>
+    <li>Docker / Docker Compose</li>
+    <li>Jenkins Pipelines</li>
+    <li>Python</li>
+    <li>Shell scripting</li>
+  </ul>|
+
+###### Programming Languages
+- 🦀Rust🦀
+- C/C#
+- Java
+- Javascript
+- ~HTML~
+
+###### Fullstack Web Development
+- Spring Web
+- Hibernate
+- Thymeleaf
+- ExpressJS
+- SQL(MySQL, OracleDB)
+- Supabase
+- HTML/CSS
+- React
+- NextJS
+
+
 <!---
 SeijiDominic/SeijiDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
