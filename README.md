@@ -15,12 +15,10 @@
 - React
 - Angular
 - Express.js
-###### Graphics and Unity
-- OpenGL (C/C++, GLSL, CMake) <For fun>
-- Unity 3D 
-
-
-
+###### Devops
+- Docker
+- Docker Compose
+- Jenkins Pipeline
 
 <!---
 SeijiDominic/SeijiDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
