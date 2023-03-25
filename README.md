@@ -1,24 +1,36 @@
-## My programming toolbox:
-###### Systems Programming
-- 🦀 Rust
-- ☕ Java
-- C#
-- C, C++, C#
+# Hi there!
+I am an Aspiring Software Developer studying at Sheridan College.
+Have a look at my toolbox :)
 
-###### Web Development
-- Javascript
-- HTML/CSS
-- SQL(MySQL, OracleDB)
-
-## List of frameworks/tech I have tried and still improving on:
-###### Web Development
-- React
-- Angular
-- Express.js
+## Toolbox
 ###### Devops
-- Docker
-- Docker Compose
-- Jenkins Pipeline
+- Docker / Docker Compose
+- Jenkins Pipelines
+- Python
+- Shell scripting
+
+###### Programming Languages
+- 🦀Rust🦀
+- C/C#
+- Java
+- Javascript
+- ~HTML~
+
+###### Fullstack Web Development
+- Spring Web
+- Hibernate
+- Thymeleaf
+- ExpressJS
+- SQL(MySQL, OracleDB)
+- Supabase
+- HTML/CSS
+- React
+- NextJS
+
+###### Hobby
+- Unity
+- Android
+
 
 <!---
 SeijiDominic/SeijiDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
