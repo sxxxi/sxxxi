@@ -6,15 +6,15 @@ Have a look at my toolbox :)
 
 ## Toolbox
 ###### Devops
-- Docker / Docker Compose
-- Jenkins Pipelines
-- Python
-- Shell scripting
+- 🐳 Docker / Docker Compose
+- 🤵 Jenkins Pipelines
+- 🐍 Python
+- 🐚 Shell scripting
 
 ###### Programming Languages
-- 🦀Rust🦀
+- 🦀 Rust
+- ☕ Java
 - C/C#
-- Java
 - Javascript
 - ~HTML~
 
@@ -32,33 +32,6 @@ Have a look at my toolbox :)
 ###### Hobby
 - Unity
 - Android
-
-
-
-
-## Toolbox
-| Devops | Foo |
-| --------------------------------------------------------------------------------------------------------- | ----- |
-| <ul><li>Docker / Docker Compose</li><li>Jenkins Pipelines</li><li>Python</li><li>Shell scripting</li></ul>| Hello |
-
-###### Programming Languages
-- 🦀Rust🦀
-- C/C#
-- Java
-- Javascript
-- ~HTML~
-
-###### Fullstack Web Development
-- Spring Web
-- Hibernate
-- Thymeleaf
-- ExpressJS
-- SQL(MySQL, OracleDB)
-- Supabase
-- HTML/CSS
-- React
-- NextJS
-
 
 <!---
 SeijiDominic/SeijiDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
