@@ -1,3 +1,4 @@
+![We da best music](https://giphy.com/gifs/djkhaledwaving2-QBjok2NBIzSR7IaDQK)
 # Hi there!
 I am an Aspiring Software Developer studying at Sheridan College.
 Have a look at my toolbox :)
