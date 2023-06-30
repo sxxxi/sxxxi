@@ -1,8 +1,46 @@
 ![We da best music](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk5ZTNiNzQwNWZmZjAxNjVjYTI0ODdiY2RmYzBiNWFiZTE3MGQ1ZCZjdD1n/QBjok2NBIzSR7IaDQK/giphy.gif)
 
+# I'm an Android dev now. 
+I finally am able to work on the things I am passionate about such as multi-threading, and utilization of system components in order to build something new and useful
+Although the scale is smaller than that of full-blown computer programs, I am able to get a taste of every aspect of application development from designing UI to optimizing business logic and the app architecture which I enjoy a lot.
+
 # Hi there!
 I am an Aspiring Software Developer studying at Sheridan College.
 Have a look at my toolbox :)
+
+
+## Android Toolbox
+###### Kotlin
+- Syntax
+- Flows
+- Coroutines
+
+###### UI
+- Views and Fragments
+- Compose + ViewModel (MVVM)
+- NavigationUI • navigation-compose
+
+###### 3rd party libraries
+- SQLite • RoomDB
+- Retrofit
+- Hilt & Dagger 
+- Moshi
+
+###### Testing
+- JUnit
+- Mockito  (in progress...)
+- Espresso (in progress...)
+
+###### Android SDK
+- Activity lifecycle
+- Intents and Intent filters
+- Broadcast recervers
+- WorkManager • Services 
+- Notification • NotificationChannels
+- Bluetooth Low Energy (discovery, connection, and character writes)
+
+
+--------------
 
 ## Toolbox
 ###### Devops
@@ -12,6 +50,7 @@ Have a look at my toolbox :)
 - 🐚 Shell scripting
 
 ###### Programming Languages
+- Kotlin
 - 🦀 Rust
 - ☕ Java
 - C/C#
@@ -31,7 +70,7 @@ Have a look at my toolbox :)
 
 ###### Hobby
 - Unity
-- Android
+- ~Android~
 
 <!---
 SeijiDominic/SeijiDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
