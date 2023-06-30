@@ -19,6 +19,10 @@ Have a look at my toolbox :)
 - Views and Fragments
 - Compose + ViewModel (MVVM)
 - NavigationUI • navigation-compose
+- Animations and Transitions
+- Material Design Guidelines
+- Some customization of composables with `Modifier.layout()`
+
 
 ###### 3rd party libraries
 - SQLite • RoomDB
