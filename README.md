@@ -1,6 +1,6 @@
 ![We da best music](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDk5ZTNiNzQwNWZmZjAxNjVjYTI0ODdiY2RmYzBiNWFiZTE3MGQ1ZCZjdD1n/QBjok2NBIzSR7IaDQK/giphy.gif)
 
-## Android Toolbox
+## Android
 ###### Kotlin
 - Syntax
 - Flows
@@ -39,7 +39,7 @@
 
 --------------
 
-## My other endeavors 
+## Other
 ###### Devops
 - 🐳 Docker / Docker Compose
 - 🤵 Jenkins Pipelines
