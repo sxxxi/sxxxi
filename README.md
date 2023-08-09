@@ -34,6 +34,7 @@
 - Notification • NotificationChannels
 - SharedPreferences • PreferenceDataStore
 - Bluetooth Low Energy (discovery, connection, and character writes)
+- Paging 3
 
 
 --------------
