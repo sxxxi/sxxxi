@@ -1,73 +1,15 @@
-## Android
-###### Kotlin
-- Syntax
-- Flows
-- Coroutines
+# Seiji Akakabe
+### Mobile and Full-stack Software Developer
+#### Programming Languages: 
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/java.svg" width=20/> Java</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/kotlin.svg" width=20/> Kotlin</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/rust.svg" width=20/> Rust</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/c.svg" width=20/> C</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/js.svg" width=20/> Javascript</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/ts.svg" width=20/> Typescript</span>
 
-###### UI
-- Views and Fragments
-- Compose + ViewModel (MVVM)
-- NavigationUI • navigation-compose
-- Animations and Transitions
-- Material Design Guidelines
-- Some customization of composables with `Modifier.layout()`
-
-
-###### 3rd party libraries
-- SQLite • RoomDB
-- Retrofit
-- Hilt & Dagger 
-- Moshi
-
-###### Testing
-- JUnit
-- Mockito  (in progress...)
-- Espresso (in progress...)
-
-###### Android SDK
-- Activity lifecycle
-- Intents and Intent filters
-- Broadcast recervers
-- WorkManager • Services 
-- Notification • NotificationChannels
-- SharedPreferences • PreferenceDataStore
-- Bluetooth Low Energy (discovery, connection, and character writes)
-- Paging 3
-
-
---------------
-
-## Other
-###### Devops
-- 🐳 Docker / Docker Compose
-- 🤵 Jenkins Pipelines
-- 🐍 Python
-- 🐚 Shell scripting
-
-###### Programming Languages
-- Kotlin
-- 🦀 Rust
-- ☕ Java
-- C/C#
-- Javascript
-- ~HTML~
-
-###### Fullstack Web Development
-- Spring Web
-- Hibernate
-- Thymeleaf
-- ExpressJS
-- SQL(MySQL, OracleDB)
-- Supabase
-- HTML/CSS
-- React
-- NextJS
-
-###### Hobby
-- Unity
-- ~Android~
-
-<!---
-SeijiDominic/SeijiDominic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Deployment:
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/aws.png" width=20/> AWS</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/terraform.svg" width=20/> Terraform</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/jenkins.svg" width=20/> Jenkins</span>
+<span style="padding: 0px 8px 0px 8px;"><img src="res/icons/docker.svg" width=20/> Docker</span>
