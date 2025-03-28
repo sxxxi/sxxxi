@@ -1,6 +1,6 @@
 # Seiji Akakabe
 ### ~~Mobile and Full-stack Software Developer~~ Digital Plumber
-Learning how to navigate ancient relics since 2024. God bless my soul. 
+Fixing shit made by my predecessors. 
 #### Programming Languages:
 <span style="padding: 0px 8px 0px 8px;"><img src="res/icons/java.svg" width=20/> Java</span>&nbsp;&nbsp;&nbsp;&nbsp;
 <span style="padding: 0px 8px 0px 8px;"><img src="res/icons/kotlin.svg" width=20/> Kotlin</span>&nbsp;&nbsp;&nbsp;&nbsp;
